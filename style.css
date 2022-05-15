@@ -1,5 +1,6 @@
 body{
     font-family: 'Poppins', sans-serif;
+    margin:0;
 }
 h1{
     font-size: 50px;
@@ -29,4 +30,11 @@ section{
 .top-banner{
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
+}
+/*section-Dream-Big*/
+.Dream-Big h2{
+    font-size: 40px;
+}
+.btn{
+    background-image: linear-gradient(rgb(93, 93, 255),rgb(104, 40, 104));
 }
